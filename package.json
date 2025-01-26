@@ -1,0 +1,12 @@
+{
+    "name": "Node-RED-Seguridad",
+    "description": "respaldo de los nodos de seguridad , GMT , AST, MOWI, AQUACHILE, SALMONES AUSTRAL,",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "seguridad.json",
+            "credentialsFile": "seguridad_cred.json"
+        }
+    }
+}
